@@ -1,0 +1,172 @@
+WEBVTT
+
+00:00.270 --> 00:04.620
+So in this lecture I want to take the opportunity to talk about the ads manager because this is an interface
+
+00:04.620 --> 00:06.810
+that you're going to get very very familiar with.
+
+00:06.810 --> 00:12.140
+Trust me now like a lot of things it's highly complex is an enormous amount of information in here.
+
+00:12.270 --> 00:14.840
+But actually you don't need much of it at all.
+
+00:14.850 --> 00:19.280
+In fact what I'm going to show you in this lecture are the key things that you need to concentrate on.
+
+00:19.500 --> 00:22.980
+So you can run your business as efficiently as possible.
+
+00:22.980 --> 00:29.730
+Now what we have across the top here are four tabs you can view campaigns and sets an X for one set
+
+00:30.000 --> 00:31.220
+and basically we go left to right.
+
+00:31.230 --> 00:33.870
+We are going into more and more detail.
+
+00:33.870 --> 00:40.530
+So if I click on campaigns we have the campaign we set up and if I were to click on this link here is
+
+00:40.530 --> 00:42.760
+exactly the same as going to the ad sets.
+
+00:42.780 --> 00:48.090
+So if I click on this you'll see I go to the ad says and now this one is highlighted and if I click
+
+00:48.090 --> 00:53.220
+on that set I go to the AD when they had said Naoki tab.
+
+00:53.220 --> 00:55.130
+Here are the ad sets.
+
+00:55.170 --> 00:59.600
+This is where you're going to be spending most of your time to make the right decisions.
+
+00:59.610 --> 01:03.720
+I'm not saying all the information is here but certainly the key information is so I'm going to take
+
+01:03.720 --> 01:06.530
+you through this particular tapped and a bit more detail.
+
+01:06.540 --> 01:07.970
+Now this first column is the delivery.
+
+01:07.980 --> 01:10.360
+So basically they're both active at the moment.
+
+01:10.360 --> 01:14.170
+You can basically pause these will stop them entirely at any time.
+
+01:14.190 --> 01:19.110
+Now this next column results I'm going to come back to in a minute because that is the most important
+
+01:19.110 --> 01:20.260
+one.
+
+01:20.310 --> 01:25.200
+After that we have a reach which is base enough that the people that have seen my ad and then we've
+
+01:25.200 --> 01:29.720
+got a number of impressions which is the number of times Facebook has actually shown it.
+
+01:29.780 --> 01:34.500
+Then we got a cost per result so that gives you an idea for example of how many times Facebook has had
+
+01:34.500 --> 01:41.400
+to show the ad before somebody makes a purchase after that we got things like our budget the amount
+
+01:41.400 --> 01:44.040
+spent when it's going to end our share.
+
+01:44.070 --> 01:50.250
+And if we just go slightly to the right here we find something else of minor interest that people get
+
+01:50.250 --> 01:55.800
+slightly obsessed with that is the link clicks the number of times that people have actually clicked
+
+01:55.950 --> 01:57.180
+on your link.
+
+01:57.180 --> 02:01.910
+Now just before I go back to that Maimon the results column I do want to just show you this.
+
+02:01.920 --> 02:07.980
+OK so the columns can in fact be changed so you have all kinds of preset reporting going on here.
+
+02:08.130 --> 02:10.360
+And you can in fact customize them.
+
+02:10.380 --> 02:15.840
+Now I really don't recommend particularly in the beginning you get heavily involved in this because
+
+02:16.170 --> 02:21.560
+you potentially get lost in all of these stats and get more and more confused.
+
+02:21.600 --> 02:26.610
+And what I'm doing here is I'm showing you what you really really need to focus on.
+
+02:26.610 --> 02:30.830
+I'm taking you straight to the most important info.
+
+02:31.020 --> 02:36.930
+So by all means go ahead and indulge yourself but please don't confuse yourself and just go down some
+
+02:36.930 --> 02:37.460
+rabbit hole.
+
+02:37.470 --> 02:39.630
+It's very very difficult to come out of.
+
+02:39.630 --> 02:41.540
+Just keep it simple.
+
+02:41.550 --> 02:47.630
+Now on that note I want to go back to my key column here the results.
+
+02:47.760 --> 02:52.130
+Now this is what it's all about because we are in business here.
+
+02:52.140 --> 02:56.270
+And if people don't buy things from our site we don't have a business.
+
+02:56.280 --> 03:03.960
+It's as pure and simple as that that many people seem to lose focus of that absolutely key metric.
+
+03:03.960 --> 03:09.030
+Now the reason why we're seeing perches here is because I'm sure you remember when we set up the ad
+
+03:09.330 --> 03:14.280
+we set it to record the purchase event as part of our pixel.
+
+03:14.280 --> 03:19.870
+Had we set out to cart all some of those other events that I had shown you would see a different result
+
+03:20.340 --> 03:25.320
+but I choose purchase because purchase at the end of the day is really all that matters.
+
+03:25.320 --> 03:30.120
+So what you're going to see here is if as a result of asset one you have one sale you'll see a one in
+
+03:30.120 --> 03:30.590
+here.
+
+03:30.720 --> 03:33.870
+And if that's set to 100 cells you're going to see a 100 in here.
+
+03:33.870 --> 03:37.780
+And this is the thing that you ultimately want to keep an eye on.
+
+03:37.790 --> 03:38.080
+OK.
+
+03:38.100 --> 03:39.360
+This is the key.
+
+03:39.530 --> 03:44.100
+Now in the next couple of lectures Coming up we're going to give you some key knowledge so you can make
+
+03:44.100 --> 03:48.430
+the right decision about what you're seeing inside of your manager.
